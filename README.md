@@ -46,32 +46,34 @@ python musicPlayer.py
 
 
 
-## Screenshots
 
+
+
+## Screenshots 📸
+
+### Now Playing Interface
 <img width="1680" alt="Screenshot 2024-08-19 at 1 51 57 am" src="https://github.com/user-attachments/assets/86face1b-d938-44d0-b62f-78513155e0ad">
-
 
 ## Contributing 🤝
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! If you have any improvements or suggestions, please feel free to:
+
+- Fork the repository
+- Create a new branch (`git checkout -b feature-branch`)
+- Make your changes
+- Commit your changes (`git commit -m 'Add some feature'`)
+- Push to the branch (`git push origin feature-branch`)
+- Open a Pull Request
+
+We’ll review your changes and merge them if everything looks good! 😊
 
 ## License 📄
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
-- Pygame Community for the audio handling support.
-- Tkinter for providing the GUI framework.
+Special thanks to:
 
-
-### Made with ❤️ by Lakshan Ranasinghe
-
-
-### How to Use It:
-
-1. Replace placeholders like `your-username`, `path/to/screenshot.png`, and `LICENSE` with actual values corresponding to your project.
-2. Save this content in a `README.md` file in the root directory of your project.
-
-This README template is designed to be informative, visually appealing, and easy to navigate for anyone visiting your GitHub repository.
-
+- **[Pygame Community](https://www.pygame.org/contribute.html)** for their amazing work on the Pygame library, which handles all audio functionalities.
+- **[Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)** for providing a solid foundation for the GUI components.
