@@ -1,4 +1,4 @@
-# MelodyMaster 🎶
+# Music Player 🎶
 
 A sleek and modern Python-based music player built using Tkinter and Pygame. MelodyMaster offers a beautiful and user-friendly interface with essential music playback features, including a draggable volume control, music timeline, and the ability to add songs directly.
 
